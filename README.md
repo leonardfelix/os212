@@ -1,5 +1,6 @@
 # os212
-#### Name 
+#### Name : Leonard Felix Sadewa Siahilan
+#### NPM  : 2006607583
  Operating Systems 2021-2
  
 [Home](.) | [Log](TXT/mylog.txt)
