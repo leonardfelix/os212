@@ -4,5 +4,5 @@
  
  See weekly [Log](TXT/mylog.txt)
  
- See [Repository]
+ See [Repository](https://github.com/leonardfelix/os212/)
 
