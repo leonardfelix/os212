@@ -6,7 +6,9 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 # ZCZC W00 10 L03 Creating repository on github
-# ZCZC W00 10 L10 Doing W00 assignment
+# ZCZC W00 20 L09 Doing W00 assignment 1,2, and 3(create and setting up github repo)
+# ZCZC W00 05 L14 Doing W00 assignment 4(fill gform)
+# ZCZC W00 10 L15 Doing W00 assignment 5(reading assignment)
 # ZCZC W00 05 L01 Joining OS discord and setting things up
 # ZCZC W00 100 L02 attend OS class(monday)
 # ZCZC W00 11 L02 attend OS class(wednesday)
