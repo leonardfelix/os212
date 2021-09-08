@@ -1,4 +1,4 @@
-#########################################
+########################################
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ##########################################
 #
@@ -13,4 +13,6 @@
 # ZCZC W00 100 L02 attend OS class(monday)
 # ZCZC W00 11 L02 attend OS class(wednesday)
 # ZCZC W00 05 L04 editing my github page and adding index.md
-# ZCZC W00 05 L01 Checking scele and discord announcements
+# ZCZC W00 05 L01 Checking scele and discord announcement
+# ZCZC W01 15 L11 Downloading virtualbox and preparing for install
+# ZCZC W01 120 L12 Creating and installing the linux system (optiion 2)
