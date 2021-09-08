@@ -15,4 +15,8 @@
 # ZCZC W00 05 L04 editing my github page and adding index.md
 # ZCZC W00 05 L01 Checking scele and discord announcement
 # ZCZC W01 15 L11 Downloading virtualbox and preparing for install
-# ZCZC W01 120 L12 Creating and installing the linux system (optiion 2)
+# ZCZC W01 120 L12 Creating and installing the linux system (optiion 2), trying logging in with putty
+# ZCZC W01 15 L13 exploring and learning command in the linux OS
+# ZCZC W01 30 L14 dressing up virtual guest
+# ZCZC W01 60 L15 generating ssh, putting it to github, and cloning into the system
+# ZCZC W01 30 L17 updating mylog.txt and inserting weekly log
