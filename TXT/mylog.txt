@@ -19,4 +19,8 @@
 # ZCZC W01 15 L13 exploring and learning command in the linux OS
 # ZCZC W01 30 L14 dressing up virtual guest
 # ZCZC W01 60 L15 generating ssh, putting it to github, and cloning into the system
+# ZCZC W01 15 L16 making new links.md file on github and uploading useful links
 # ZCZC W01 30 L17 updating mylog.txt and inserting weekly log
+# ZCZC W01 30 L18 studying and trying regex expression on linux
+# ZCZC W01 90 L19 doing reading assignment of reading ppt chapt 1,2, 18
+# ZCZC W01 120 L60 checking hard drive and system file after blue screen
