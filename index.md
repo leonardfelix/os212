@@ -4,7 +4,11 @@
  
  This is my github page for OS course
  
+ See [Repository](https://github.com/leonardfelix/os212/)
+ 
  See weekly [Log](TXT/mylog.txt)
  
- See [Repository](https://github.com/leonardfelix/os212/)
+ See useful [Links](links.md)
+ 
+
 
