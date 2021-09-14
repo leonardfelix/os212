@@ -7,3 +7,6 @@ https://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
 ##### 3. More information wih sed & awk
 https://www.youtube.com/watch?v=ixOiOS35HYg
 
+##### 4. C command in linux
+https://www.cyberciti.biz/faq/howto-compile-and-run-c-cplusplus-code-in-linux/
+
