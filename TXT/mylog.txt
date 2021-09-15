@@ -25,10 +25,14 @@
 # ZCZC W01 90 L19 doing reading assignment of reading ppt chapt 1,2, 18
 # ZCZC W01 120 L60 checking hard drive and system file after blue screen
 # ZCZC W02 90 L11 doing reading assignment from ppt security and protection(ch 16,17)
+# ZCZC W02 15 L12 trying c and bash demos in sistem operasi
 # ZCZC W02 10 L14 generating key pair and passphrase
 # ZCZC W02 5 L15 listing all key pair with various input
 # ZCZC W02 3 L16 importing OS public key from the website
 # ZCZC W02 5 L17 signing the OS public key with passphrase
 # ZCZC W02 5 L18 exporting my public key to mypubkey.txt and pushing to github
 # ZCZC W02 5 L19 updating links in links.md
+# ZCZC W02 10 L20 checking and rank peer links
 # ZCZC W02 15 L09 copying script to git, making SHA256SUM, and trying the file verivication
+# ZCZC W02 100 L02 attend OS class(monday)
+# ZCZC W02 30 L02 attend OS class(wednesday)
