@@ -31,3 +31,4 @@
 # ZCZC W02 5 L17 signing the OS public key with passphrase
 # ZCZC W02 5 L18 exporting my public key to mypubkey.txt and pushing to github
 # ZCZC W02 5 L19 updating links in links.md
+# ZCZC W02 15 L09 copying script to git, making SHA256SUM, and trying the file verivication
