@@ -10,5 +10,6 @@
  
  See useful [Links](links.md)
  
+ See weekly [Ranks](TXT/myrank.txt)
 
 

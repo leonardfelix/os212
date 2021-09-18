@@ -26,6 +26,7 @@
 # ZCZC W01 120 L60 checking hard drive and system file after blue screen
 # ZCZC W02 90 L11 doing reading assignment from ppt security and protection(ch 16,17)
 # ZCZC W02 15 L12 trying c and bash demos in sistem operasi
+# ZCZC W02 30 L13 watching briefly cyber secutiy introduction part 1 and 2
 # ZCZC W02 10 L14 generating key pair and passphrase
 # ZCZC W02 5 L15 listing all key pair with various input
 # ZCZC W02 3 L16 importing OS public key from the website
