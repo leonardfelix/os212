@@ -25,3 +25,6 @@ Complete command of vi editor
 command of how to run c files in linux
 
 
+##### 6. [Shell script making video playlist](https://www.youtube.com/playlist?list=PLS1QulWo1RIYmaxcEqw5JhK3b-6rgdWO_)
+youtube playlist of script commands in linux
+
