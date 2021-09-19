@@ -1,4 +1,4 @@
-# os212
+# Operating System Course
 
  Operating Systems 2021-2
  
