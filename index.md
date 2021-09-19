@@ -9,7 +9,7 @@
  See weekly [Log](TXT/mylog.txt)
  
  See useful [Links](links.md)
- 
- See weekly [Ranks](TXT/myrank.txt)
+
+ See my public [Key](TXT/mypubkey.txt)
 
 
