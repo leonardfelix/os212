@@ -40,9 +40,13 @@
 # ZCZC W02 30 L32 watching youtube video of how to create script in linux
 # ZCZC W03 100 L02 attend OS class(monday)
 # ZCZC W03 5 L02 attend OS class(wednesday)
+# ZCZC W03 120 L11 reading 3 ppt about file systems
+# ZCZC W03 15 L12 trying and running week03 demos in VM
+# ZCZC W03 30 L13 trying and solving midterm problems
 # ZCZC W03 5 L14 check if .bash_aliasees is up to date
 # ZCZC W03 45 L15 playing around with virtual disk(adding, formating, mounting, changing owner, testing), also editing myscript.sh
 # ZCZC W03 5 L16 updating bookmark links
 # ZCZC W03 10 L17 reviewing my peer links
 # ZCZC W03 5 L18 updating mylog
 # ZCZC W03 10 L19 submit my week 3 assignment by running script and pushing to git
+# ZCZC W03 12 L32 watching crash course video explanation of file and file systems
