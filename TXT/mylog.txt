@@ -50,3 +50,9 @@
 # ZCZC W03 5 L18 updating mylog
 # ZCZC W03 10 L19 submit my week 3 assignment by running script and pushing to git
 # ZCZC W03 12 L32 watching crash course video explanation of file and file systems
+# ZCZC W04 100 L02 attend OS class(monday)
+# ZCZC W04 15 L02 attend OS class(wednesday)
+# ZCZC W04 5 L14 geting updates and installing package list 2
+# ZCZC W04 15 L15 fetching and extracting week4 files
+# ZCZC W04 5 L18 updating my weekly log
+# ZCZC W04 5 L19 submiting my week 4 assignment to git
