@@ -31,3 +31,10 @@ Youtube playlist of learning shell script commands in linux
 
 ##### 7. [Crash course video of file and file systems](https://www.youtube.com/watch?v=KN8YgJnShPM&list=PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye&index=22)
 Youtube crash coures video as an additional detailed explanation towards file systems and files
+
+##### 8. [C Language cheat sheet](https://developerinsider.co/c-programming-language-cheat-sheet/)
+Use this sheet on looking a strange command in c that you didn't know, the cheat sheet might help you to understand the code you read.
+
+##### 9. [More explanation on pointer and reference in c](https://www.youtube.com/watch?v=sxHng1iufQE)
+A brief and clear youtube explanation of poointers * and adress & to increase understanding 
+
