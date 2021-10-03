@@ -52,7 +52,12 @@
 # ZCZC W03 12 L32 watching crash course video explanation of file and file systems
 # ZCZC W04 100 L02 attend OS class(monday)
 # ZCZC W04 15 L02 attend OS class(wednesday)
+# ZCZC W04 30 L11 reading ppt chapter 9
+# ZCZC W04 60 L12 trying and understanding week04 demos
+# ZCZC W04 15 L13 reviewing week 4 midterm example since it's the same as demo
 # ZCZC W04 5 L14 geting updates and installing package list 2
 # ZCZC W04 15 L15 fetching and extracting week4 files
+# ZCZC W04 5 L16 updating my weekly links
+# ZCZC W04 15 L17 reviewing peer links
 # ZCZC W04 5 L18 updating my weekly log
 # ZCZC W04 5 L19 submiting my week 4 assignment to git
