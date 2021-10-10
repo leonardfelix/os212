@@ -6,58 +6,70 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 # ZCZC W00 20 L09 Doing W00 assignment 1,2, and 3(create and setting up github repo)
-# ZCZC W00 05 L14 Doing W00 assignment 4(fill gform)
-# ZCZC W00 10 L15 Doing W00 assignment 5(reading assignment)
-# ZCZC W00 14 L32 Watching crash course operating system
-# ZCZC W00 05 L01 Joining OS discord and setting things up
-# ZCZC W00 100 L02 attend OS class(monday)
-# ZCZC W00 11 L02 attend OS class(wednesday)
-# ZCZC W00 05 L04 editing my github page and adding index.md
-# ZCZC W00 05 L01 Checking scele and discord announcement
-# ZCZC W01 15 L11 Downloading virtualbox and preparing for install
-# ZCZC W01 120 L12 Creating and installing the linux system (optiion 2), trying logging in with putty
-# ZCZC W01 15 L13 exploring and learning command in the linux OS
-# ZCZC W01 30 L14 dressing up virtual guest
-# ZCZC W01 60 L15 generating ssh, putting it to github, and cloning into the system
-# ZCZC W01 15 L16 making new links.md file on github and uploading useful links
-# ZCZC W01 30 L17 updating mylog.txt and inserting weekly log
-# ZCZC W01 30 L18 studying and trying regex expression on linux
-# ZCZC W01 90 L19 doing reading assignment of reading ppt chapt 1,2, 18
-# ZCZC W01 120 L60 checking hard drive and system file after blue screen
-# ZCZC W02 90 L11 doing reading assignment from ppt security and protection(ch 16,17)
-# ZCZC W02 15 L12 trying c and bash demos in sistem operasi
-# ZCZC W02 30 L13 watching briefly cyber secutiy introduction part 1 and 2
-# ZCZC W02 10 L14 generating key pair and passphrase
-# ZCZC W02 5 L15 listing all key pair with various input
-# ZCZC W02 3 L16 importing OS public key from the website
-# ZCZC W02 5 L17 signing the OS public key with passphrase
-# ZCZC W02 5 L18 exporting my public key to mypubkey.txt and pushing to github
-# ZCZC W02 5 L19 updating links in links.md
-# ZCZC W02 10 L20 checking and rank peer links
-# ZCZC W02 15 L09 copying script to git, making SHA256SUM, and trying the file verivication
-# ZCZC W02 100 L02 attend OS class(monday)
-# ZCZC W02 30 L02 attend OS class(wednesday)
-# ZCZC W02 30 L32 watching youtube video of how to create script in linux
-# ZCZC W03 100 L02 attend OS class(monday)
-# ZCZC W03 5 L02 attend OS class(wednesday)
-# ZCZC W03 120 L11 reading 3 ppt about file systems
-# ZCZC W03 15 L12 trying and running week03 demos in VM
-# ZCZC W03 30 L13 trying and solving midterm problems
-# ZCZC W03 5 L14 check if .bash_aliasees is up to date
-# ZCZC W03 45 L15 playing around with virtual disk(adding, formating, mounting, changing owner, testing), also editing myscript.sh
-# ZCZC W03 5 L16 updating bookmark links
-# ZCZC W03 10 L17 reviewing my peer links
-# ZCZC W03 5 L18 updating mylog
-# ZCZC W03 10 L19 submit my week 3 assignment by running script and pushing to git
+ZCZC W00 05 L14 Doing W00 assignment 4(fill gform)
+ZCZC W00 10 L15 Doing W00 assignment 5(reading assignment)
+ZCZC W00 14 L32 Watching crash course operating system
+ZCZC W00 05 L01 Joining OS discord and setting things up
+ZCZC W00 100 L02 attend OS class(monday)
+ZCZC W00 11 L02 attend OS class(wednesday)
+ZCZC W00 05 L04 editing my github page and adding index.md
+ZCZC W00 05 L01 Checking scele and discord announcement
+ZCZC W01 15 L11 Downloading virtualbox and preparing for install
+ZCZC W01 120 L12 Creating and installing the linux system (optiion 2), trying logging in with putty
+ZCZC W01 15 L13 exploring and learning command in the linux OS
+ZCZC W01 30 L14 dressing up virtual guest
+ZCZC W01 60 L15 generating ssh, putting it to github, and cloning into the system
+ZCZC W01 15 L16 making new links.md file on github and uploading useful links
+ZCZC W01 30 L17 updating mylog.txt and inserting weekly log
+ZCZC W01 30 L18 studying and trying regex expression on linux
+ZCZC W01 90 L19 doing reading assignment of reading ppt chapt 1,2, 18
+ZCZC W01 120 L60 checking hard drive and system file after blue screen
+ZCZC W02 90 L11 doing reading assignment from ppt security and protection(ch 16,17)
+ZCZC W02 15 L12 trying c and bash demos in sistem operasi 
+ZCZC W02 30 L13 watching briefly cyber secutiy introduction part 1 and 2
+ZCZC W02 10 L14 generating key pair and passphrase
+ZCZC W02 5 L15 listing all key pair with various input
+ZCZC W02 3 L16 importing OS public key from the website
+ZCZC W02 5 L17 signing the OS public key with passphrase
+ZCZC W02 5 L18 exporting my public key to mypubkey.txt and pushing to github
+ZCZC W02 5 L19 updating links in links.md
+ZCZC W02 10 L20 checking and rank peer links
+ZCZC W02 15 L09 copying script to git, making SHA256SUM, and trying the file verivication
+ZCZC W02 100 L02 attend OS class(monday)
+ZCZC W02 30 L02 attend OS class(wednesday)
+ZCZC W02 30 L32 watching youtube video of how to create script in linux
+ZCZC W03 100 L02 attend OS class(monday)
+ZCZC W03 5 L02 attend OS class(wednesday)
+ZCZC W03 120 L11 reading 3 ppt about file systems
+ZCZC W03 15 L12 trying and running week03 demos in VM 
+ZCZC W03 30 L13 trying and solving midterm problems
+ZCZC W03 5 L14 check if .bash_aliasees is up to date
+ZCZC W03 45 L15 playing around with virtual disk(adding, formating, mounting, changing owner, testing), also editing myscript.sh
+ZCZC W03 5 L16 updating bookmark links
+ZCZC W03 10 L17 reviewing my peer links
+ZCZC W03 5 L18 updating mylog
+ZCZC W03 10 L19 submit my week 3 assignment by running script and pushing to git
 # ZCZC W03 12 L32 watching crash course video explanation of file and file systems
-# ZCZC W04 100 L02 attend OS class(monday)
-# ZCZC W04 15 L02 attend OS class(wednesday)
-# ZCZC W04 30 L11 reading ppt chapter 9
-# ZCZC W04 60 L12 trying and understanding week04 demos
-# ZCZC W04 15 L13 reviewing week 4 midterm example since it's the same as demo
-# ZCZC W04 5 L14 geting updates and installing package list 2
-# ZCZC W04 15 L15 fetching and extracting week4 files
-# ZCZC W04 5 L16 updating my weekly links
-# ZCZC W04 15 L17 reviewing peer links
-# ZCZC W04 5 L18 updating my weekly log
-# ZCZC W04 5 L19 submiting my week 4 assignment to git
+ZCZC W04 100 L02 attend OS class(monday)
+ZCZC W04 15 L02 attend OS class(wednesday)
+ZCZC W04 30 L11 reading ppt chapter 9
+ZCZC W04 60 L12 trying and understanding week04 demos
+ZCZC W04 15 L13 reviewing week 4 midterm example since it's the same as demo
+ZCZC W04 5 L14 geting updates and installing package list 2
+ZCZC W04 15 L15 fetching and extracting week4 files
+ZCZC W04 5 L16 updating my weekly links
+ZCZC W04 15 L17 reviewing peer links
+ZCZC W04 5 L18 updating my weekly log
+ZCZC W04 5 L19 submiting my week 4 assignment to git
+ZCZC W05 100 L02 attend OS class(monday)
+ZCZC W05 60 L02 attend OS class(wednesday)
+ZCZC W05 120 L11 reading and understanding os chapter 10
+ZCZC W05 60 L12 trying w05 demos
+ZCZC W05 45 L13 reviewing and trying midterm problems
+ZCZC W05 45 L14 doing assignment 4,modifying c file and testing memory crash spot
+ZCZC W05 20 L15 updating my weekly links
+ZCZC W05 15 L16 making tips file and making tips for next sem
+ZCZC W05 30 L17 reviewing peer links
+ZCZC W05 10 L18 updating my weekly log
+ZCZC W05 5 L19 submiting weekly assignment 5
+

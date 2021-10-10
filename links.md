@@ -38,3 +38,8 @@ Use this sheet on looking a strange command in c that you didn't know, the cheat
 ##### 9. [More explanation on pointer and reference in c](https://www.youtube.com/watch?v=sxHng1iufQE)
 A brief and clear youtube explanation of poointers * and adress & to increase understanding 
 
+##### 10. [A great Youtube video plyalist of operating system explanation](https://www.youtube.com/watch?v=aF2uRmibwco&list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-)
+This video playist will help to give better understanding towards operating systems lesson in detailed, also complete with easy to understand examples.
+
+##### 11. [Explanation of page replacement algorithm](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)
+This gives a better understanding of the page replacement algorithm with great examples.
