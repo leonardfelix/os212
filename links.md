@@ -43,3 +43,6 @@ This video playist will help to give better understanding towards operating syst
 
 ##### 11. [Explanation of page replacement algorithm](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)
 This gives a better understanding of the page replacement algorithm with great examples.
+
+##### 12. [Help if can't login to ssh(just blank screen after typing ssh command)](https://www.linuxquestions.org/questions/linux-server-73/why-does-ssh-to-my-server-give-me-a-blank-shell-892857/)
+I once have a problem of writing ssh command and being greeted by only a blank console, the command in the link above helpto solve this issue and will be able to re-enter to the ssh account
