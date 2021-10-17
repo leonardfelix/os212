@@ -5,7 +5,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-# ZCZC W00 20 L09 Doing W00 assignment 1,2, and 3(create and setting up github repo)
+ZCZC W00 20 L09 Doing W00 assignment 1,2, and 3(create and setting up github repo)
 ZCZC W00 05 L14 Doing W00 assignment 4(fill gform)
 ZCZC W00 10 L15 Doing W00 assignment 5(reading assignment)
 ZCZC W00 14 L32 Watching crash course operating system
@@ -72,4 +72,16 @@ ZCZC W05 15 L16 making tips file and making tips for next sem
 ZCZC W05 30 L17 reviewing peer links
 ZCZC W05 10 L18 updating my weekly log
 ZCZC W05 5 L19 submiting weekly assignment 5
+ZCZC W06 5 L02 attend OS class(monday)
+ZCZC W06 60 L02 attend OS class(wednesday)
+ZCZC W06 25 L05 doing weekly quiz
+ZCZC W06 120 L11 reading and understanding ppt 3 and 4
+ZCZC W06 45 L12 trying week 6 demos
+ZCZC W06 90 L13 trying previous midterm problems
+ZCZC W06 30 L14 fetching week 6 tar, running script and moving to results
+ZCZC W06 10 L15 update weekly links
+ZCZC W06 15 L17 reviewing this week peer links
+ZCZC W06 15 L18 updating my weekly log
+ZCZC W06 5 L19 submitting week 6 assignment
+
 
