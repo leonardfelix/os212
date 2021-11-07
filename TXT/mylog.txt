@@ -83,5 +83,14 @@ ZCZC W06 10 L15 update weekly links
 ZCZC W06 15 L17 reviewing this week peer links
 ZCZC W06 15 L18 updating my weekly log
 ZCZC W06 5 L19 submitting week 6 assignment
-
+ZCZC W07 100 L02 attend OS class(monday)
+ZCZC W07 15 L02 attend OS class(wednesday)
+ZCZC W07 90 L11 reading ppt chapter 6,7,8 
+ZCZC W07 30 L12 trying weekly demos
+ZCZC W07 20 L13 trying previous midterm problems
+ZCZC W07 60 L14 fetching tar file and generating report 0,1, and 2
+ZCZC W07 10 L15 updating weekly links
+ZCZC W07 15 L17 reviewing my peer links
+ZCZC W07 15 L18 updating weekly log
+ZCZC W07 5 L19 submitting week 7 assignment
 

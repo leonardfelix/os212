@@ -47,3 +47,5 @@ This gives a better understanding of the page replacement algorithm with great e
 ##### 12. [Help if can't login to ssh(just blank screen after typing ssh command)](https://www.linuxquestions.org/questions/linux-server-73/why-does-ssh-to-my-server-give-me-a-blank-shell-892857/)
 I once have a problem of writing ssh command and being greeted by only a blank console, the command in the link above helpto solve this issue and will be able to re-enter to the ssh account
 
+##### 13. [More explanation about deadlock](https://techterms.com/definition/deadlock#:~:text=A%20deadlock%20is%20a%20condition,specific%20process%20within%20a%20program.)
+A more detailed and deeper explanation regarding deadlocks 
