@@ -93,4 +93,14 @@ ZCZC W07 10 L15 updating weekly links
 ZCZC W07 15 L17 reviewing my peer links
 ZCZC W07 15 L18 updating weekly log
 ZCZC W07 5 L19 submitting week 7 assignment
+ZCZC W08 15 L02 attend OS class(wednesday)
+ZCZC W08 45 L11 reading and understanding ppt chapter 5
+ZCZC W08 15 L12 trying demos for week 8
+ZCZC W08 30 L13 reading and trying previous finalterm problems
+ZCZC W08 90 L14 extracting week 8 tar and preparing to install linux from scratch
+ZCZC W08 90 L15 Doing intallation and compiling cross toolchain 
+ZCZC W08 10 L16 updating weekly links
+ZCZC W08 15 L18 reviewing and ranking  peer links
+ZCZC W08 15 L19 updating weekly logs
+ZCZC W08 5 L20 submitting week 08 assignment
 

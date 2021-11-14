@@ -49,3 +49,8 @@ I once have a problem of writing ssh command and being greeted by only a blank c
 
 ##### 13. [More explanation about deadlock](https://techterms.com/definition/deadlock#:~:text=A%20deadlock%20is%20a%20condition,specific%20process%20within%20a%20program.)
 A more detailed and deeper explanation regarding deadlocks 
+
+##### 14. [Solution for g++: fatal error: killed signal terminated program cc1plus](https://stackoverflow.com/questions/66967848/g-fatal-error-killed-signal-terminated-program-cc1plus-when-trying-to-install)
+Upon installing I encountered this problem if someone had the same problem this link might be useful to solve it
+
+
